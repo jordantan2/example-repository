@@ -1,3 +1,3 @@
 #example repo
 
-Learning how to use GIT.
+Learning how to use GIT. How dope!
